@@ -1,6 +1,7 @@
 .item{
     width: 100%;
     margin-bottom: 40px;
+    overflow: hidden;
 }
 .item p{
     margin: 6px 0px;

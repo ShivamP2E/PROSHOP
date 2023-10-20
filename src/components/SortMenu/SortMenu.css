@@ -1,0 +1,40 @@
+.collection-heading{
+    display: flex;
+    padding: 60px 20px 0px 20px;
+}
+.collection-heading h1{
+    font-size: 140px;
+}
+.collection-heading p{
+font-size: 19px;
+font-weight: 600;
+}
+.sort-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    margin-top: 60px;
+}
+
+.view-menu{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border: none;
+    padding: 20px;
+    background-color: rgb(236, 236, 236);
+    font-weight: 600;
+}
+.view-button button{
+    border: none;
+    background-color:black;
+    padding: 20px 40px 20px 40px;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+.view-button button:hover{
+    background-color:rgb(236, 236, 236);
+    color: black;
+}
